@@ -2,8 +2,8 @@
 
 ## Lua files for neovim setup
 
-### NOTE for me: move all this to .
+### NOTE for me: move all this to: 
 
-```.config/neovim
-
+```
+.config/neovim
 ```
